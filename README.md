@@ -1,5 +1,4 @@
-# psychotic-squirrel
-Attribution Pipeline Orchestration
+# Attribution Pipeline Orchestration
 
 ## Setup
 There are a couple of steps to get setup and run the pipeline that will generate a customer attribution channel report in CSV.
